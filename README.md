@@ -6,8 +6,8 @@ I'm a technology enthusiast keen on cloud solutions, virtualization, and web app
 My favorite technology stack includes:
 
 💪 Python (Flask, FastAPI)
-🥇 PostgreSQL (Peewee, SQLAlchemy)
-🦸‍♂️ JavaScript (React)
+🥇 PostgreSQL (Peewee, SQLAlchemy, Sequelize)
+🦸‍♂️ JavaScript (React, Vite, ExpressJS)
 👍 Kubernetes
 
 I'm always eager to learn something new and not afraid of any software engineering challenge🤞
