@@ -14,6 +14,6 @@ My favourite technology stack includes:
 * 10+ years of experience in different IT areas
 * Graduated from Makers Academy
 * Passionate about backend and infrastructure projects at scale
-* [Check my CV] (https://github.com/olnov/olnov/blob/main/Oleg%20Novikov%20CV.pdf)
+* [Check my CV](https://github.com/olnov/olnov/blob/main/Oleg%20Novikov%20CV.pdf)
   
 I'm always eager to learn something new and not afraid of any software engineering challenge🤞
