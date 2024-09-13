@@ -17,3 +17,5 @@ My favourite technology stack includes:
 * [Check my CV](https://github.com/olnov/olnov/blob/main/Oleg%20Novikov%20CV.pdf)
   
 I'm always eager to learn something new and not afraid of any software engineering challenge🤞
+
+![olnov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=olnov&theme=vue-dark&hide_border=true)
