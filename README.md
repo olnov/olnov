@@ -7,7 +7,7 @@ My favourite technology stack includes:
 
 💪 Python (Flask, FastAPI)
 🥇 PostgreSQL (Peewee, SQLAlchemy, Sequelize)
-🦸‍♂️ JavaScript (React, Vite, ExpressJS)
+🦸‍♂️ JavaScript/TypeScript (React, Vite, ExpressJS, NestJS)
 👍 Kubernetes
 
 ## About me
